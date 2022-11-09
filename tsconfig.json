@@ -22,7 +22,6 @@
     "sourceMap": true,
     "baseUrl": ".",
     "paths": {
-      "@pages/*": ["pages/*"],
       "@public/*": ["public/*"],
       "@components/*": ["components/*"],
       "@styles/*": ["styles/*"]
