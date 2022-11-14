@@ -12,5 +12,10 @@
         "extensions": [".js", ".jsx", ".ts", ".tsx"]
       }
     }
+  },
+  "env": {
+    "browser": true,
+    "amd": true,
+    "node": true
   }
 }
